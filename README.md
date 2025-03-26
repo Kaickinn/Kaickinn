@@ -152,7 +152,7 @@ Sempre com muita vontade de aprender, procuro me aprimorar nas principais tecnol
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+  <!--  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"-->
 />
 
 <br/>
