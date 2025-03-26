@@ -6,7 +6,7 @@ Olá! Me chamo Kaick, tenho 18 anos e sou natural de Salvador, Bahia. Estou come
 
 Sempre com muita vontade de aprender, procuro me aprimorar nas principais tecnologias e linguagens de programação, e já estou dando os primeiros passos na criação de projetos e na colaboração com outros desenvolvedores. No futuro, quero me especializar no desenvolvimento web, tanto no front-end quanto no back-end.
 
-
+<!--
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
@@ -37,7 +37,7 @@ Sempre com muita vontade de aprender, procuro me aprimorar nas principais tecnol
         />
     </a>
 </p>
-
+-->
 ---
 
 ### 🤖 Linguagens e Tecnologias
