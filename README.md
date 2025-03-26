@@ -1,35 +1,95 @@
-### Olá! Eu sou Kaickinn 👋🏽  
-Atuando como estagiário em Desenvolvimento Full-Stack na MAP - Assessoria em Marketplaces, trago para minha vida profissional um perfil orientado à resolução de problemas complexos e à eficiência nas soluções. Graduando em Engenharia de Computação pela Universidade do Estado do Rio de Janeiro, fui bolsista de iniciação científica na mesma instituição e recebi menção honrosa na 32ª Semana de Iniciação Científica da UERJ em 2023. Com conhecimentos avançados em inglês, desenvolvo continuamente minhas habilidades linguísticas. Valorizo o trabalho em equipe e cultivo responsabilidade, proatividade e uma comunicação eficaz em todas as minhas interações.
+# 👨🏽‍💻 Kaick
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/MCHarduim)  
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55021994069932)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusharduimcorp@gmail.com)
+**`Desenvolvedor Iniciante`**
 
-<div style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-stats.vercel.app/api?username=harduim300&show_icons=true&theme=dark" height="220.25rem" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harduim300&theme=dark" height="220.25rem" />
-</div>
+Olá! Me chamo Kaick, tenho 18 anos e sou natural de Salvador, Bahia. Estou começando minha jornada no mundo da programação e, apesar de ser iniciante, sou apaixonado por tecnologia e aprendizado contínuo. Estou em busca de desafios que me permitam crescer profissionalmente e contribuir para soluções criativas e eficientes.
 
-## Monitoramento a partir de 28/07/2024
-<div style="display: flex; flex-direction: row;">
-    <img style="" src="https://github-readme-stats.vercel.app/api/wakatime?username=harduim300&show_icons=true&theme=dark"/>
-</div>
+Sempre com muita vontade de aprender, procuro me aprimorar nas principais tecnologias e linguagens de programação, e já estou dando os primeiros passos na criação de projetos e na colaboração com outros desenvolvedores. No futuro, quero me especializar no desenvolvimento web, tanto no front-end quanto no back-end.
 
-## Possuo conhecimentos em:
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Se você também é apaixonado por tecnologia ou está começando na área, sinta-se à vontade para conversar comigo! Vamos trocar experiências e crescer juntos.
 
-## Tecnologias que possuo conhecimento:
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
+---
 
-Estou à disposição para uma conversa e para fornecer qualquer informação adicional que seja necessária. 🙂👍
+**Conecte-se comigo**:
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/kaick-dev">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se no LinkedIn"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://wa.me/5500000000000">
+        <img 
+            alt="WhatsApp"
+            title="Entre em contato pelo WhatsApp"
+            src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+        />
+    </a>
+    <a href="mailto:kaickdev@gmail.com">
+        <img 
+            alt="Gmail"
+            title="Envie um email"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=KaickDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaickDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
