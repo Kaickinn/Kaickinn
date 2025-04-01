@@ -2,9 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Olá! Me chamo Kaick, tenho 18 anos e sou natural de Salvador, Bahia. Estou começando minha jornada no mundo da programação e, apesar de ser iniciante, sou apaixonado por tecnologia e aprendizado contínuo. Estou em busca de desafios que me permitam crescer profissionalmente e contribuir para soluções criativas e eficientes.
-
-Sempre com muita vontade de aprender, procuro me aprimorar nas principais tecnologias e linguagens de programação, e já estou dando os primeiros passos na criação de projetos e na colaboração com outros desenvolvedores. No futuro, quero me especializar no desenvolvimento web, tanto no front-end quanto no back-end.
+focado em desenvolvimento!!
 
 ---
 
