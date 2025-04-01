@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Kaick
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 focado em desenvolvimento!!
 
