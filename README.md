@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-focado em desenvolvimento!!
+dev
 
 ---
 
