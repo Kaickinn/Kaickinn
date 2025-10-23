@@ -2,11 +2,7 @@
 
 <div align="center">
 
-# 👨🏻‍💻 Kaick
-
-**Desenvolvedor FullStack**
-
----
+# 👨🏻‍💻 ks
 
 ### 🚀 Tecnologias
 
